@@ -39,7 +39,7 @@ EOT;
           <form>
             <select name="warenkorb" size="7">
               <option label="Salami">Salami</option>
-              <option label="Hawaii" selected="true">Hawaii</option>
+              <option label="Hawaii">Hawaii</option>
               <option label="Salami">Salami</option>
             </select>
             <br><br>
